@@ -1,0 +1,25 @@
+<RCC>
+  <qresource prefix="/sourse">
+    <file>background.jpg</file>
+    <file>_20230905205314.jpg</file>
+    <file>_20230905205315.jpg</file>
+    <file>_20230905205408.jpg</file>
+    <file>_20230905205409.jpg</file>
+    <file>_20230905205409_1.jpg</file>
+    <file>_20230905205410.jpg</file>
+    <file>_20230905205411.jpg</file>
+    <file>_20230905205411_1.jpg</file>
+    <file>_20230905205412.jpg</file>
+    <file>_20230905205412_1.jpg</file>
+    <file>_20230905205413.jpg</file>
+    <file>_20230905205414.jpg</file>
+    <file>_20230905205415.jpg</file>
+    <file>_20230905205415_1.jpg</file>
+    <file>_20230905205416.jpg</file>
+    <file>_20230905205416_1.jpg</file>
+    <file>_20230905205417.jpg</file>
+    <file>_20230905205417_1.jpg</file>
+    <file>_20230905205418_1.jpg</file>
+    <file>_20230905205419.jpg</file>
+  </qresource>
+</RCC>

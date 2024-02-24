@@ -1,0 +1,9 @@
+location type     hunger  thirsty urinate feeling spirit  healthy life    live
+1       Labrador42      64      66      54      78      71      3       1       
+0       Civet   10      20      90      70      90      74      0       0       
+2       Plush   112     24      36      -36     -12     66      0       0       
+3       Labrador42      64      66      54      78      71      3       1       
+4       Civet   10      20      90      70      90      74      0       0       
+5       Civet   10      20      90      70      90      74      0       0       
+6       Plush   111     22      33      -33     -11     68      1       1       
+7       Labrador41      62      63      57      79      73      4       1       

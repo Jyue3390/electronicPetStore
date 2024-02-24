@@ -1,0 +1,53 @@
+<RCC>
+  <qresource prefix="source2">
+    <file>background.jpg</file>
+    <file>_20230905205314.jpg</file>
+    <file>_20230905205315.jpg</file>
+    <file>_20230905205408.jpg</file>
+    <file>_20230905205409.jpg</file>
+    <file>_20230905205409_1.jpg</file>
+    <file>_20230905205410.jpg</file>
+    <file>_20230905205411.jpg</file>
+    <file>_20230905205411_1.jpg</file>
+    <file>_20230905205412.jpg</file>
+    <file>_20230905205412_1.jpg</file>
+    <file>_20230905205413.jpg</file>
+    <file>_20230905205414.jpg</file>
+    <file>_20230905205415.jpg</file>
+    <file>_20230905205415_1.jpg</file>
+    <file>_20230905205416.jpg</file>
+    <file>_20230905205416_1.jpg</file>
+    <file>_20230905205417.jpg</file>
+    <file>_20230905205417_1.jpg</file>
+    <file>_20230905205418_1.jpg</file>
+    <file>_20230905205419.jpg</file>
+    <file>G:/萌宠图片/_20230905205408.jpg</file>
+  </qresource>
+  <qresource prefix="pet">
+    <file>error.jpg</file>
+    <file>lab.jpg</file>
+    <file>Lab1.jpg</file>
+    <file>Lab2.jpg</file>
+    <file>Lab4.jpg</file>
+    <file>Lab5.jpg</file>
+    <file>Lab6.jpg</file>
+    <file>Lab7.jpg</file>
+    <file>Lab8.jpg</file>
+    <file>p.jpg</file>
+    <file>p1.jpg</file>
+    <file>p2.jpg</file>
+    <file>p3.jpg</file>
+    <file>p4.jpg</file>
+    <file>p5.jpg</file>
+    <file>p6.jpg</file>
+    <file>p7.jpg</file>
+    <file>s.jpg</file>
+    <file>S1.jpg</file>
+    <file>s2.jpg</file>
+    <file>s3.jpg</file>
+    <file>s4.jpg</file>
+    <file>s5.jpg</file>
+    <file>s6.jpg</file>
+    <file>s7.jpg</file>
+  </qresource>
+</RCC>
