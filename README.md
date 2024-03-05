@@ -20,22 +20,34 @@
 ![image](https://github.com/Jyue3390/electronicPetStore/assets/116416572/6d5b1fd4-3984-4dfb-a875-0ae29bd6b91e)
 ## **项目展示**：
 游戏登录页面
+
 ![image](https://github.com/Jyue3390/electronicPetStore/assets/116416572/8e1fd7d9-88f4-424b-b202-ed328b368840)
+
  点击enter按钮进入商店页面，登录页面隐藏
  ![image](https://github.com/Jyue3390/electronicPetStore/assets/116416572/f0357c41-15d9-40f2-9c92-8be61d677a4b)
+ 
  点击按钮弹出care窗口
+
  ![image](https://github.com/Jyue3390/electronicPetStore/assets/116416572/fa8994c9-9baa-417b-a1c5-22bae9395b18)
+
 点击pet...按钮弹出Care窗口，选择new..创建宠物
 
 点击其他按钮对宠物进行喂食、喂水、上厕所、玩耍、睡觉、看病、售出操作
 ![image](https://github.com/Jyue3390/electronicPetStore/assets/116416572/410d1c1a-4143-4c5f-be60-3c1d07ce706b)
+ 
  若某处已有宠物再在此新建会弹出错误提示
+ 
  ![image](https://github.com/Jyue3390/electronicPetStore/assets/116416572/9107eb0e-71dd-466f-b22b-38c2e6da7859)
+
 宠物状态恢复正常后重新显示默认创建图片
 ![image](https://github.com/Jyue3390/electronicPetStore/assets/116416572/1bb53dc2-812a-4206-9f84-ed8513650033)
+
  对第三个宠物进行sell售出，会显示如下图片 
+
 ![image](https://github.com/Jyue3390/electronicPetStore/assets/116416572/8b376c98-1713-4206-908c-6276adf3b64e)
 创建宠物如下 
+
 ![image](https://github.com/Jyue3390/electronicPetStore/assets/116416572/0466f5ce-eda7-424a-b5b4-4f7d4e7f2d4e)
 点击view all 查看所有宠物的状态 
+
 ![image](https://github.com/Jyue3390/electronicPetStore/assets/116416572/fb7dbe09-0cd7-46d1-bb5f-34f4e17cc5d7)
